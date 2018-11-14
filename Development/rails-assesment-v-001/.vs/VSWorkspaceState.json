@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\rails",
+    "\\rails\\rails-assesment-v-001",
+    "\\rails\\rails-assesment-v-001\\app",
+    "\\rails\\rails-assesment-v-001\\app\\controllers",
+    "\\rails\\rails-assesment-v-001\\app\\helpers",
+    "\\rails\\rails-assesment-v-001\\app\\models",
+    "\\rails\\rails-assesment-v-001\\app\\views",
+    "\\rails\\rails-assesment-v-001\\app\\views\\meetings",
+    "\\rails\\rails-assesment-v-001\\app\\views\\simple_calendar"
+  ],
+  "SelectedNode": "\\rails\\rails-assesment-v-001\\app\\views\\meetings\\_form.html.erb",
+  "PreviewInSolutionExplorer": false
+}
